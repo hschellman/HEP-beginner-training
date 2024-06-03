@@ -15,4 +15,3 @@ gem 'hsf-training-theme', git: "https://github.com/hsf-training/hsf-training-the
 if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new('3.0.0')
     gem 'webrick', '>= 1.6.1'
 end
-

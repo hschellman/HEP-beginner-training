@@ -12,4 +12,3 @@ open an issue: https://github.com/hsf-training/hsf-styles/issues/new
 {% include base_path.html %}
 
 {% include aio-script.md %}
-

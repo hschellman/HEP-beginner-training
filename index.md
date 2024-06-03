@@ -15,4 +15,3 @@ Basics for getting started with unix computing
 {% include curriculum.html %}
 
 {% include links.md %}
-
