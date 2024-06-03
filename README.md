@@ -16,12 +16,6 @@
 
 Basics for getting started with unix computing
 
-## 📅 Past events and videos
-
-* 🎥 [Fixme Sample event Dec 1 - 13, 2022](https://indico.cern.ch/)
-
-Emoji key: 🎥 (full video recordings availabile), ⛏️ (hackathon)
-
 ## 🤗 Contributing
 <!-- CENTRALLY MAINTAINED SECTION -->
 <!-- Remove the above marker to disable having this section be overwritten -->
@@ -62,7 +56,7 @@ Look for the tag ![good_first_issue][gfi-badge], which marks particularly simple
 <!-- END CENTRALLY MAINTAINED SECTION -->
 ## 💖 Authors
 
-<!-- If we have a primary author/maintainer, who kicked off the whole lessen etc, he should get a dedicated shoutout here -->
+<!-- If we have a primary author/maintainer, who kicked off the whole lessen etc, they should get a dedicated shoutout here -->
 
 Thanks goes to these wonderful people ([emoji key][allcontrib-emoji-key]) who contributed to
 the content of the lesson:
