@@ -1,17 +1,17 @@
-[![HSF Training Center][training-center-badge]][hsf-training-center]
+[![HSF Training Center][training-center-badge]][hschellman-center]
 [![Upcoming Events][schools-badge]][schools]
 [![Twitter Follow][twitter-badge]][twitter]
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/HEP-beginner-training/main.svg)](https://results.pre-commit.ci/latest/github/hsf-training/HEP-beginner-training/main)
-[![pages-build-deployment](https://github.com/hsf-training/HEP-beginner-training/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/HEP-beginner-training/actions/workflows/pages/pages-build-deployment)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hschellman/HEP-beginner-training/main.svg)](https://results.pre-commit.ci/latest/github/hschellman/HEP-beginner-training/main)
+[![pages-build-deployment](https://github.com/hschellman/HEP-beginner-training/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hschellman/HEP-beginner-training/actions/workflows/pages/pages-build-deployment)
 
 # First step
 
 > **Note**
-> Click [here](https://hsf-training.github.io/HEP-beginner-training/) for the training website!
+> Click [here](https://hschellman.github.io/HEP-beginner-training/) for the training website!
 
 
 Basics for getting started with unix computing
@@ -29,7 +29,7 @@ Emoji key: 🎥 (full video recordings availabile), ⛏️ (hackathon)
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
-If you make non-trivial changes (i.e., more than fixing a simple typo), you are eligible to be added to the [HSF Training Community page][hsf-training-community],
+If you make non-trivial changes (i.e., more than fixing a simple typo), you are eligible to be added to the [HSF Training Community page][hschellman-community],
 as well as to the list of contributors [below](#contributors-).
 
 We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
@@ -85,7 +85,7 @@ Instead, all regular contributors are listed on our [HSF Training Community page
 [hsf-training-center]: https://hepsoftwarefoundation.org/training/curriculum.html
 [training-center-badge]: https://img.shields.io/badge/HSF%20Training%20Center-browse-ff69b4
 [schools]: https://hepsoftwarefoundation.org/Schools/events.html
-[issues]: https://github.com/hsf-training/HEP-beginner-training/issues
+[issues]: https://github.com/hschellman/HEP-beginner-training/issues
 [progit]: http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
 [jekyll]: https://jekyllrb.com/
 [allcontrib-emoji-key]: https://allcontributors.org/docs/en/emoji-key
