@@ -105,3 +105,8 @@ highlighter: rouge
 show_authors: true
 
 remote_theme: hsf-training/hsf-training-theme
+
+plugins:
+  - jekyll-toc
+
+toc: true

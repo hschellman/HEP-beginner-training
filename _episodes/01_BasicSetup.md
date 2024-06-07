@@ -20,8 +20,9 @@ Also turn off automatic updates.  Operating system updates can mess with your se
 
 ## 1. Open a unix terminal window
 
-First figure out how to open a terminal on your system.  The Carpentries Shell Training has a [section that explains this](https://swcarpentry.github.io/shell-novice/#open-a-new-shell)
+First figure out how to open a terminal on your system.  The Carpentries Shell Training has a [section that explains this][New Shell]
 
+This should be easy on Linux and OSX but a bit more complicated in Windows.
 
 <!---
 On Linux use xterm, on OSX go to Utilities and start a Terminal.
@@ -34,8 +35,8 @@ On Windows it's a bit more complicated as the underlying operating system is not
 
 ## 2. Learn how to use the Unix Shell
 
-First figure out [how to open a terminal on your system]
-(https://swcarpentry.github.io/shell-novice/#open-a-new-shell)
+<!-- First figure out [how to open a terminal on your system][New Shell]
+-->
 
 There is a nice tutorial from the Carpentries at: [Unix Shell Basics][Unix Shell Basics].
 
@@ -45,13 +46,13 @@ Please do the [unix shell tutorial][Unix Shell Basics] to learn about the basic 
 
 ## 3. Install some basic tools
 
-You are going to need to add some packages to your local machine
+You are going to need to install some common tools on your local machine
 
 ### 1. Install Git
 
 Github is a repository for shared code.  It is also a good place to back up your code and share with others.  You will need to set up an account if you want to store things there. For now we are just going to use it to grab other people's software so you don't need to set up an account yet.
 
-Start out by doing the setup/install section of the tutorial at [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) to get started.  You can come back and do the full tutorial later.
+Start out by doing the setup/install section of the tutorial at [https://swcarpentry.github.io/git-novice/02-setup.html](https://swcarpentry.github.io/git-novice/02-setup.html) to get started.  You can come back and do the full tutorial later.
 
 ### 2. Get a compiler/code editor
 
@@ -105,16 +106,6 @@ See the information about [putty and xming]({{ site.baseurl }}/putty.html).
 
 See [Next lesson]({{ site.baseurl }}/02_InstallConda.md)
 
-
-
-
-
-
-
-
-
-
-
 ### Useful Links
 
 [HSF Training Center][HSF Training Center]
@@ -137,6 +128,7 @@ See [Next lesson]({{ site.baseurl }}/02_InstallConda.md)
 
 {%include links.md%}
 
+[New Shell]: https://swcarpentry.github.io/shell-novice/#open-a-new-shell
 [HSF Training Center]: https://hsf-training.org/training-center/
 [Windows Subsystem for Linux]: https://learn.microsoft.com/en-us/windows/wsl/about
 [Unix Shell Basics]: https://swcarpentry.github.io/shell-novice/
