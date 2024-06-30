@@ -31,7 +31,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "schellmh@oregonstate.exclude"
+email: "schellmh@oregonstate.edu"
 
 # Sites.
 amy_site: "https://amy.carpentries.org/"

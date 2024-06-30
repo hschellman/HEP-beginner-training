@@ -4,14 +4,13 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-> * TOC
-{: toc}
 
-Basics for getting started with unix computing
+
+Basics for getting started with unix computing for High Energy Physics
 
 > ## Prerequisites
 >
-> * Fixme
+> We're assuming you have a computer available that you can install things on. We have instructions for MacOS, Unix and Windows.
 {: .prereq}
 
 

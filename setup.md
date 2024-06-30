@@ -25,8 +25,15 @@ You need a computer with at least 10GB of free space
 
 > ## Note
 > Computers are mean, if you run into problems, that is normal. Ask for help.
-> Use a search engine to see if solutions are out there.
-> Ask us!  Please tell us what kind of computer you are using.
+> Send an email to schellmh@oregonstate.edu or make an issue at:
+>
+> https://github.com/hschellman/HEP-beginner-training/issues
+>
+> Ask us!  We're still debugging these pages and your questions will help us make them better.
+> Remember to tell us what kind of computer you are using.
+>
+> If we can't answer right away, use a search engine to see if solutions are out there.
+
 {: .discussion}
 
 ## Preparation
@@ -39,6 +46,7 @@ At that point you should have a set of powerful coding tools.
 
 > ## Issues
 > If you have issues here, please contact us.  Thanks!
+> https://github.com/hschellman/HEP-beginner-training/issues
 {: .discussion}
 
 ### Useful Links
