@@ -21,7 +21,7 @@ Just install from the website and get it to talk to MIT Kerberos (not the defaul
 
 One thing to remember in all of this is that your username may be different on your personal machine than on the remote system.  Remember to set it correctly.
 
-[Set MIT Kerberos](../fig/MobaXterm.png){: .image-with-shadow }
+<!--[Set MIT Kerberos](MobaXterm.png){: .image-with-shadow } -->
 
 ### PuTTY
 
